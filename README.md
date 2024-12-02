@@ -5,8 +5,11 @@ This project aims to predict the sales success of 2-wheelers based on various fa
 The primary goal of this project is to develop a model that predicts the likelihood of a 2-wheeler’s success in a particular market based on several influencing factors:
 
 Bike Features: Including price, kms driven, power, and other specifications.
+
 City Variables: Such as city demographics and preferences.
+
 Brand Preferences: Insights into which brands perform better in specific locations.
+
 Using these features, a machine learning model (KMeans clustering and Naive Bayes) has been built to segment bikes and predict their success probability. The project also provides insights for optimizing pricing and inventory management strategies.
 
 **Key Techniques**
